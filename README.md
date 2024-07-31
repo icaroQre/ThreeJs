@@ -11,7 +11,7 @@ Certifique-se de ter um servidor local para servir os arquivos estáticos, pois 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/icaroQre/ThreeJs
 Navegue até o diretório do projeto:
 
   cd seu-repositorio
